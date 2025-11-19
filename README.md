@@ -29,7 +29,7 @@ Example:
 - **Backend:** PHP, Laravel  
 - **Frontend:** HTML, CSS, Bootstrap, JS  
 - **Database:** MySQL  
-- **Others:** Composer, Git, REST API, Stripe (if used)
+- **Others:** Composer, Git, REST API, Stripe 
 
 ---
 
