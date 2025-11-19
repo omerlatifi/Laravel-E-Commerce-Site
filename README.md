@@ -1,3 +1,3 @@
 # Laravel-E-Commerce-Site
-GO TO Master /br
+GO TO Master ||
 Use HTML,CSS,JAVASCRIPT,MY SQL,LARAVEL
