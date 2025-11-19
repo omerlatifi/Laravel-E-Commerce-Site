@@ -33,11 +33,11 @@ Example:
 
 ---
 
-## 🔹 Installation Steps (for local use)
-1. Clone the repository:
-```bash
-git clone https://github.com/omerlatifi/Laravel-E-Commerce-Site.git
-2.Move to the project directory:
-cd Laravel-E-Commerce-Site
-composer install
-
+## 🔹Demo
+-Local preview only: Open http://127.0.0.1:8000 after running php artisan serve.
+---
+## 🔹Author
+-Name: Omer Latifi
+-GitHub: https://github.com/omerlatifi
+-Portfolio: https://yourportfolio.com
+---
