@@ -32,6 +32,34 @@ Example:
 - **Others:** Composer, Git, REST API, Stripe 
 
 ---
+## 🔹 Installation Steps (Local Use)
+```bash
+# Clone the repository
+git clone https://github.com/omerlatifi/Laravel-E-Commerce-Site.git
+
+# Move into the project directory
+cd News-Portal
+
+# Install PHP dependencies
+composer install
+
+# Install Node.js dependencies and compile assets
+npm install
+npm run dev
+
+# Copy environment file
+cp .env.example .env
+
+# Generate Laravel app key
+php artisan key:generate
+
+# Run migrations
+php artisan migrate
+
+# Serve the project locally
+php artisan serve
+```
+---
 
 ## 🔹Demo
 - **Local preview only:** Open http://127.0.0.1:8000 after running php artisan serve.
