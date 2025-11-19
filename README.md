@@ -1,6 +1,5 @@
 # Project Name
-A brief one-liner about your project.  
-Example: "An e-commerce website built with Laravel, MySQL, and Bootstrap."
+  "An e-commerce website built with Laravel, MySQL,Javascript,css and Bootstrap."
 
 ---
 
